@@ -1,4 +1,5 @@
 # run goostats
+# extra comment
 for datafile in "$@"
 do
 	echo $datafile
