@@ -1,4 +1,5 @@
 #vikings lolololol
+#Rangers 4 - Wild 2
 while getopts J:r: option
 do
     case "$option" in
