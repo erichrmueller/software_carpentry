@@ -1,8 +1,7 @@
 
 #vikings rule!!!!
-=======
 #Rangers Blow
->>>>>>> afba355a613fa6cf70b7fb421e26e5655b4b1247
+
 while getopts J:r: option
 do
     case "$option" in
